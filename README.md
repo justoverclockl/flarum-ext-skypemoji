@@ -36,5 +36,4 @@ php flarum cache:clear
 ### Links
 
 - [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-skypemoji)
-- [GitHub](https://github.com/justoverclock/flarum-ext-skypemoji)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [GitHub](https://github.com/justoverclockl/flarum-ext-skypemoji)
