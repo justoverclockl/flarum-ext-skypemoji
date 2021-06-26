@@ -1,6 +1,6 @@
 # SkypeMoji
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/justoverclock/flarum-ext-skypemoji.svg)](https://packagist.org/packages/justoverclock/flarum-ext-skypemoji) [![Total Downloads](https://img.shields.io/packagist/dt/justoverclock/flarum-ext-skypemoji.svg)](https://packagist.org/packages/justoverclock/flarum-ext-skypemoji)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://poser.pugx.org/justoverclock/flarum-ext-skypemoji/v)](https://packagist.org/packages/justoverclock/flarum-ext-skypemoji) [![Total Downloads](https://poser.pugx.org/justoverclock/flarum-ext-skypemoji/downloads)](https://packagist.org/packages/justoverclock/flarum-ext-skypemoji)
 
 A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 
