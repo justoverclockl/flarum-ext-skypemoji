@@ -6,7 +6,8 @@ A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 
 ### Available icon code
 
-![qmtnyUvQOA](https://user-images.githubusercontent.com/79002016/123518383-f13a2680-d6a5-11eb-881d-c73b7e66577a.gif)
+![GAq3GhZ3Ze](https://user-images.githubusercontent.com/79002016/123519228-42e4b000-d6aa-11eb-88a1-2f94d8d5435f.gif)
+
 
 
 ```
@@ -16,7 +17,8 @@ A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 :worry: :wonder: :wink::tongue: :whew: :whistle: :wait: :conf: :time: :notme: :upd: :vamp: 
 :mah: :tired: :swear: :sweat: :hand: :ops: :surpr::star: :snake: :football: :angel: :banana: :avocado: 
 :burger: :cake: :pc: :cool: :coolmonkey: :coolbot: :tear: :dia: :doh: :dream: :facepalm: :crossed: :shock:
-:fire: :movie: :wc: :penguin: :pizza: :phone: :poop: :puke:
+:fire: :movie: :wc: :penguin: :pizza: :phone: :poop: :puke: :pool: :punch: :rain: :racoon: :red: :rain: :rock: :rofl:
+:rudolf: :santass: :selfie: :shake: :frozen: :zzz: :smoke: :slap: :smirk: :snail: :train: :stop: :nerd:
 
 ``` 
 
