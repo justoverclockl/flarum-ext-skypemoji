@@ -112,6 +112,15 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var flarum_forum_app__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! flarum/forum/app */ "flarum/forum/app");
 /* harmony import */ var flarum_forum_app__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(flarum_forum_app__WEBPACK_IMPORTED_MODULE_0__);
+/*
+ * This file is part of justoverclock/flarum-ext-keywords.
+ *
+ * Copyright (c) 2021 Marco Colia.
+ * https://flarum.it
+ *
+ * For the full copyright and license information, please view the LICENSE.md
+ * file that was distributed with this source code.
+ */
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
   // Official Skype Emoticons, copyright to Skype.
@@ -154,7 +163,60 @@ __webpack_require__.r(__webpack_exports__);
     ':makeup:': 'makeup_40x40',
     ':lord:': 'movember_40x40',
     ':ass:': 'mooning_40x40',
-    ':mmm:': 'mmm_40x40'
+    ':mmm:': 'mmm_40x40',
+    ':angrys:': 'angryface_40x40',
+    ':xmas:': 'xmassarcastic_40x40',
+    ':yawn:': 'yawn_40x40',
+    ':wtf:': 'wtf_40x40',
+    ':xd:': 'xd_40x40',
+    ':worry:': 'worry_40x40',
+    ':wonder:': 'wonder_40x40',
+    ':wink:': 'wink_40x40',
+    ':tongue:': 'winktongueout_40x40',
+    ':whew:': 'whew_40x40',
+    ':whistle:': 'whistle_40x40',
+    ':wait:': 'wait_40x40',
+    ':conf:': 'veryconfused_40x40',
+    ':time:': 'waiting_40x40',
+    ':notme:': 'wasntme_40x40',
+    ':upd:': 'upsidedownface_40x40',
+    ':vamp:': 'vampire_40x40',
+    ':mah:': 'unamused_40x40',
+    ':tired:': 'tired_40x40',
+    ':swear:': 'swear_40x40',
+    ':sweat:': 'sweat_40x40',
+    ':hand:': 'talktothehand_40x40',
+    ':ops:': 'sweatgrinning_40x40',
+    ':surpr:': 'surprised_40x40',
+    ':star:': 'stareyes_40x40',
+    ':snake:': 'snake_40x40',
+    ':football:': 'americanfootball2_40x40',
+    ':angel:': 'angel_40x40',
+    ':banana:': 'banana_40x40',
+    ':avocado:': 'avocadolove_40x40',
+    ':burger:': 'burger_40x40',
+    ':cake:': 'cake_40x40',
+    ':pc:': 'computer_40x40',
+    ':cool:': 'cool_40x40',
+    ':coolmonkey:': 'coolmonkey_40x40',
+    ':coolbot:': 'coolrobot_40x40',
+    ':tear:': 'cry_40x40',
+    ':dia:': 'diamond_40x40',
+    ':doh:': 'doh_40x40',
+    ':dream:': 'dream_40x40',
+    ':facepalm:': 'facepalm_40x40',
+    ':crossed:': 'fingerscrossed_40x40',
+    ':fire:': 'fire_40x40',
+    ':shock:': 'llsshock_40x40',
+    ':movie:': 'movie_40x40',
+    ':wc:': 'ontheloo_40x40',
+    ':penguin:': 'penguin_40x40',
+    ':pizza:': 'pizza_40x40',
+    ':phone:': 'phone_40x40',
+    ':poop:': 'poop_40x40',
+    ':puke:': 'puke_40x40',
+    ':punch:': 'punch_40x40',
+    ':pool:': 'poolparty_40x40'
   };
   mapIdsToPaths(emoticons, url, '', '');
   document.querySelectorAll('p').forEach(function (e) {
@@ -175,12 +237,12 @@ __webpack_require__.r(__webpack_exports__);
     return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
   }
 
-  function mapIdsToPaths(emotes, url, prefix, size) {
+  function mapIdsToPaths(emotes, url, prefix) {
     Object.keys(emotes).forEach(function (id) {
-      emotes[id] = url + prefix + emotes[id] + size + '.gif';
+      emotes[id] = url + prefix + emotes[id] + '.gif';
     });
   }
-}); //http://localhost/flarum/public/assets/extensions/justoverclock-welcomebox/blush_40x40.gif
+});
 
 /***/ }),
 

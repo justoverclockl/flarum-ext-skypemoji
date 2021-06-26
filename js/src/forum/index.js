@@ -1,4 +1,3 @@
-
 /*
  * This file is part of justoverclock/flarum-ext-twitchmoji.
  *
