@@ -19,6 +19,19 @@ A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 :fire: :movie: :wc: :penguin: :pizza: :phone: :poop: :puke:
 
 ``` 
+
+### Change icon size
+
+To change the size simply add this code to your custom css (admin panel) with your preferred size:
+
+```css
+img.skypemoji {
+  width: 19px; // change this number to increase or decrease the size
+}
+
+```
+
+
 ### Installation
 
 Install with composer:
