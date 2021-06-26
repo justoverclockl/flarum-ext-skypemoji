@@ -113,7 +113,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var flarum_forum_app__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! flarum/forum/app */ "flarum/forum/app");
 /* harmony import */ var flarum_forum_app__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(flarum_forum_app__WEBPACK_IMPORTED_MODULE_0__);
 /*
- * This file is part of justoverclock/flarum-ext-keywords.
+ * This file is part of justoverclock/flarum-ext-skypemoji.
  *
  * Copyright (c) 2021 Marco Colia.
  * https://flarum.it
@@ -281,7 +281,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var flarum_forum_components_CommentPost__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(flarum_forum_components_CommentPost__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _AddSkypeMoji__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./AddSkypeMoji */ "./src/forum/AddSkypeMoji.js");
 /*
- * This file is part of justoverclock/flarum-ext-twitchmoji.
+ * This file is part of justoverclock/flarum-ext-skypemoji.
  *
  * Copyright (c) 2021 Marco Colia.
  * https://flarum.it

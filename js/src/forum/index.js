@@ -1,5 +1,5 @@
 /*
- * This file is part of justoverclock/flarum-ext-twitchmoji.
+ * This file is part of justoverclock/flarum-ext-skypemoji.
  *
  * Copyright (c) 2021 Marco Colia.
  * https://flarum.it
