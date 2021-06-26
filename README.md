@@ -14,9 +14,11 @@ A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 :bandit: :blank: :bomb: :call: :champagne: :devil: :drunk: :dull: :evil: :envy: :emo: :neutr: :party: :hphone: 
 :holiday: :robot::monkey: :like: :mute: :cry: :makeup: :lord: :ass: :mmm: :angrys: :xmas: :yawn: :wtf: :xd: 
 :worry: :wonder: :wink::tongue: :whew: :whistle: :wait: :conf: :time: :notme: :upd: :vamp: 
-:mah: :tired: :swear: :sweat: :hand: :ops: :surpr::star: :snake:
-```
+:mah: :tired: :swear: :sweat: :hand: :ops: :surpr::star: :snake: :football: :angel: :banana: :avocado: 
+:burger: :cake: :pc: :cool: :coolmonkey: :coolbot: :tear: :dia: :doh: :dream: :facepalm: :crossed: :shock:
+:fire: :movie: :wc: :penguin: :pizza: :phone: :poop: :puke:
 
+``` 
 ### Installation
 
 Install with composer:
