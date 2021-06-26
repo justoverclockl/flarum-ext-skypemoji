@@ -6,7 +6,7 @@ A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 
 ### Available icon code
 
-![qJT1bZsefd](https://user-images.githubusercontent.com/79002016/123516153-fd6cb680-d69a-11eb-860e-689fa7153270.gif)
+![qmtnyUvQOA](https://user-images.githubusercontent.com/79002016/123518383-f13a2680-d6a5-11eb-881d-c73b7e66577a.gif)
 
 
 ```
