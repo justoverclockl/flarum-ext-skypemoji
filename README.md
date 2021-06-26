@@ -16,7 +16,8 @@ A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 :worry: :wonder: :wink::tongue: :whew: :whistle: :wait: :conf: :time: :notme: :upd: :vamp: 
 :mah: :tired: :swear: :sweat: :hand: :ops: :surpr::star: :snake: :football: :angel: :banana: :avocado: 
 :burger: :cake: :pc: :cool: :coolmonkey: :coolbot: :tear: :dia: :doh: :dream: :facepalm: :crossed: :shock:
-:fire: :movie: :wc: :penguin: :pizza: :phone: :poop: :puke:
+:fire: :movie: :wc: :penguin: :pizza: :phone: :poop: :puke: :pool: :punch: :rain: :racoon: :red: :rain: :rock: :rofl:
+:rudolf: :santass: :selfie: :shake: :frozen: :zzz: :smoke: :slap: :smirk: :snail: :train: :stop: :nerd:
 
 ``` 
 
