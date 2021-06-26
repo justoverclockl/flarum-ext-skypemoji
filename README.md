@@ -6,6 +6,9 @@ A [Flarum](http://flarum.org) extension. Add Skype emoji to flarum
 
 ### Available icon code
 
+![qJT1bZsefd](https://user-images.githubusercontent.com/79002016/123516153-fd6cb680-d69a-11eb-860e-689fa7153270.gif)
+
+
 ```
 :happy: :happyeye: :headbang: :clap: :finger: :fear: :giggle: :hang: :hyst: :idea: :love: :heart: :hi: :angry: 
 :bandit: :blank: :bomb: :call: :champagne: :devil: :drunk: :dull: :evil: :envy: :emo: :neutr: :party: :hphone: 
